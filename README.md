@@ -17,7 +17,6 @@ I am a Certified Tech Developer with a comprehensive background in full stack de
 
 - [LinkedIn](https://www.linkedin.com/in/manuelherreramontoya/)
 - [Twitter](https://twitter.com/manuelherreram)
-- [Personal Website/Blog](your-website)
 
 ## 📫 Get in Touch
 
@@ -25,9 +24,9 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuelherreram&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelherreram&layout=compact&theme=radical)
 
 Thank you for visiting my profile! Let's connect and create something amazing together!
 
