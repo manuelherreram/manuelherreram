@@ -20,7 +20,7 @@ I am a Certified Tech Developer with a comprehensive background in full stack de
 
 ## 📫 Get in Touch
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through any of the platforms above or directly via email at [your-email@example.com](mailto:manuel.herrera.m@gmail.com).
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through any of the platforms above or directly via email at [manuel.herrera.m@gmail.com](mailto:manuel.herrera.m@gmail.com).
 
 ## 📈 GitHub Stats
 
