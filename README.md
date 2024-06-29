@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I'm a passionate and certified Tech Developer with
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Java, JavaScript, Python (basic)
-- **Frameworks & Libraries**: React, NodeJS
+- **Languages**: JavaScript, Java, Python (basic)
+- **Frameworks & Libraries**: React, NodeJS, Spring Boot
 - **Databases**: MySQL (basic)
 - **Other Skills**: Full stack development, problem-solving, collaboration
 
 ## 🌱 Professional Summary
 
-I am a Certified Tech Developer with a comprehensive background in full stack development, complemented by a solid foundation as an English teacher. My technical expertise includes proficiency in Java, JavaScript, React, and NodeJS, along with basic knowledge of Python and MySQL. I am passionate about leveraging technology to solve complex problems and am committed to continuous learning and professional growth. I excel in collaborative environments, developing innovative and scalable solutions.
+I am a Certified Tech Developer with a comprehensive background in full stack development, complemented by a solid foundation as an English teacher. My technical expertise includes proficiency in JavaScript, React, Java and NodeJS, along with basic knowledge of Python and MySQL. I am passionate about leveraging technology to solve complex problems and am committed to continuous learning and professional growth. I excel in collaborative environments, developing innovative and scalable solutions.
 
 ## 🌐 Find Me Around the Web
 
